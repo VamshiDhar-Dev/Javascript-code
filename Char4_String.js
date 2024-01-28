@@ -1,0 +1,10 @@
+let Name="vamshi"
+console.log(Name.length)
+console.log(Name.toLowerCase())
+console.log(Name.toUpperCase())
+console.log(Name.charAt(0))
+console.log(Name.slice())
+console.log(Name.concat("dHAR"))
+console.log(Name.trimEnd())
+console.log(Name.trimStart())
+console.log(Name.replace("vamshi","No one is their in my lifeṇ"))

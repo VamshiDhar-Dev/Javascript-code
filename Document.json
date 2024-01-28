@@ -1,0 +1,22 @@
+{
+    "name": "vamshi",
+    "age": 21,
+    "licences": null,
+    "items": [
+        "papu",
+        "oil",
+        "soaps",
+        "ditagern"
+    ],
+    "Obj": {
+        "name1": "Hello",
+        "item1": [
+            "d",
+            "f",
+            "g",
+            {
+                "obj1": "hello"
+            }
+        ]
+    }
+}
